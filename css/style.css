@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     padding: 22px 24px;
     background: #66737a;
-    color: rgb(17, 106, 221);
+    color: rgb(45, 241, 255);
     font-family: Georgia, 'Times New Roman', serif;
 }
 
@@ -21,7 +21,7 @@ header {
     align-items: center;
     gap: 22px;
     padding: 0 16px 30px;
-    background-color: #f77904;
+    background-color: #f7f304;
     color:blue
 }
 
@@ -79,7 +79,7 @@ header {
 .intro-text {
     flex: 1 1 50%;
     max-width: 450px;
-    color:rgb(17, 106, 221);
+    color:rgb(0, 121, 143);
 }
 
 .intro-text h2 {
